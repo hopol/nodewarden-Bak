@@ -1,5 +1,5 @@
-commit=29c2de852411f3aa66de0c8a2ea16e7f87fa932c
-timestamp=2026-11-16T08:57:35Z
+commit=954bd05c10535e5828e43103caa821514c333f7c
+timestamp=2026-11-26T10:23:36Z
 upstream_url=https://github.com/shuaiplus/nodewarden
 upstream_branch=main
-version=1.8.1
+version=1.8.2
